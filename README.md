@@ -1,2 +1,2 @@
 # Alura-Books
-Project made during the Alura responsive design course.
+Project made during the Alura mobile-first and responsive design with HTML and CSS course.
